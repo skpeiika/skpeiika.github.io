@@ -29,3 +29,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 If you have any questions or need support, please [open an issue](https://github.com/your-username/your-project/issues).
+
+
+#Git-hub
+```
+git config --global user.name "Your Name"
+```
